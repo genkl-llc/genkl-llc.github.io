@@ -1,7 +1,3 @@
----
-
-## layout: default
-
 ### Usage
 
 You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).  
